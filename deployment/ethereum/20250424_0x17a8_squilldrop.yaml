@@ -1,0 +1,24 @@
+network: ETHEREUM
+contract_address: !!python/object/new:boa.util.abi.Address
+  args:
+  - '0x17A81C3C7fD664911f00415c4F72b4dFd552053F'
+  state: !!python/tuple
+  - null
+  - canonical_address: !!binary |
+      F6gcPH/WZJEfAEFcT3K039VSBT8=
+constructor_arguments: '0x0000000000000000000000007ebab7190d3d574ce82d29f2fa1422f18e29969c'
+deployment_timestamp: '2025-04-24T15:02:14.206498'
+deployment_parameters:
+  reward_token: '0x7ebab7190d3d574ce82d29f2fa1422f18e29969c'
+  reward_amount: 0
+  total_recipients: 0
+contract_state:
+  owner: !!python/object/new:boa.util.abi.Address
+    args:
+    - '0xccBF601eB2f5AA2D5d68b069610da6F1627D485d'
+    state: !!python/tuple
+    - null
+    - canonical_address: !!binary |
+        zL9gHrL1qi1daLBpYQ2m8WJ9SF0=
+artifacts:
+  vyper_output: artifacts/20250424_0x17a8_squilldrop_vyper_output.json

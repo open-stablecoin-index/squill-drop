@@ -40,7 +40,7 @@ Having distributed SQUID fairly for contributions over the course of two years, 
 ### Check Your Eligibility
 
 1. Visit the designated blockchain explorer and connect your wallet.
-2. Go to the contract: [0xPLACEHOLDER](#)
+2. Go to the contract: [0x17A81C3C7fD664911f00415c4F72b4dFd552053F](https://etherscan.io/address/0x17A81C3C7fD664911f00415c4F72b4dFd552053F#readContract)
 3. Under "Read Contract", find the `eligible_addresses` function.
 4. Enter your wallet address to check if you're eligible for the claim.
 
@@ -49,7 +49,7 @@ Having distributed SQUID fairly for contributions over the course of two years, 
 If you're eligible, you can claim your tokens in two ways:
 
 #### Option 1: Through Etherscan
-1. Visit the contract on the explorer: [0xPLACEHOLDER](#)
+1. Visit the contract on the explorer: [0x17A81C3C7fD664911f00415c4F72b4dFd552053F](https://etherscan.io/address/0x17A81C3C7fD664911f00415c4F72b4dFd552053F#writeContract)
 2. Connect your wallet.
 3. Under "Write Contract", click `claim`.
 4. Confirm the transaction in your wallet.
