@@ -1,3 +1,5 @@
 *.swp
 survey-env
 __pycache__
+keystore_*
+scripts/keystore.json

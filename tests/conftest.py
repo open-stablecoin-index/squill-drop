@@ -35,10 +35,27 @@ def reward_amount():
 
 @pytest.fixture
 def survey(owner, token, reward_amount):
-    contract = boa.load_partial("contracts/SurveyAirdrop.vy")
+    contract = boa.load_partial("contracts/SquillDrop.vy")
     with boa.env.prank(owner):
-        instance = contract.deploy(token.address, reward_amount)
+        instance = contract.deploy(token.address)
 
         # Fund contract
         token.transfer(instance.address, reward_amount * 10)
     return instance
+
+
+def pytest_addoption(parser):
+    parser.addoption(
+        "--include-hypothesis",
+        action="store_true",
+        default=False,
+        help="Include Hypothesis tests",
+    )
+
+def pytest_collection_modifyitems(config, items):
+    if not config.getoption("--include-hypothesis"):
+        # Skip Hypothesis tests if the flag is not set
+        skip_hypothesis = pytest.mark.skip(reason="Need --include-hypothesis option to run")
+        for item in items:
+            if "test_hypothesis" in item.nodeid:
+                item.add_marker(skip_hypothesis)

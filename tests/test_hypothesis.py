@@ -1,5 +1,12 @@
-import boa
 import pytest
+import os
+
+# Check for the command-line option to include Hypothesis tests
+def pytest_configure(config):
+    if not config.getoption("--include-hypothesis"):
+        pytest.skip("Skipping Hypothesis tests", allow_module_level=True)
+
+import boa
 from eth_utils import to_checksum_address
 from hypothesis import HealthCheck, Phase, Verbosity, assume, given, settings
 from hypothesis import strategies as st
@@ -68,7 +75,7 @@ def test_claim_for_properties(
     contract_balance_before = token.balanceOf(survey.address)
 
     # Random address claims for recipient
-    with boa.env.prank(claimer):
+    with boa.env.prank(owner):
         survey.claim_for(recipient)
 
     # Property 1: Tokens went to correct recipient
@@ -84,7 +91,7 @@ def test_claim_for_properties(
     assert not survey.eligible_addresses(recipient)
 
     # Property 5: Can't claim again
-    with boa.env.prank(claimer):
+    with boa.env.prank(owner):
         with boa.reverts("!address"):
             survey.claim_for(recipient)
 
@@ -265,7 +272,7 @@ def test_token_decimals(owner, decimals, reward):
         token._mint_for_testing(owner, reward_amount * 10)
 
     # Deploy survey
-    survey_contract = boa.load_partial("contracts/SurveyAirdrop.vy")
+    survey_contract = boa.load_partial("contracts/SquillDrop.vy")
     with boa.env.prank(owner):
         survey = survey_contract.deploy(token.address, reward_amount)
         token.transfer(survey.address, reward_amount * 5)
