@@ -1,0 +1,2636 @@
+{
+  "0xd334533980c201c1b93e39bbe6bd1e04be5c0f5d": {
+    "squid": 0,
+    "lp": 2283877879067143824,
+    "gauge": 0,
+    "convex": 4821068611930819452
+  },
+  "0x277fa53c8a53c880e0625c92c92a62a9f60f3f04": {
+    "squid": 2613085990482830535184697,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x67bad5cfd248bf02de36f9087c630e47cdfa30b8": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x8fecf70b90ed40512c0608565eb9a53af0ef42ad": {
+    "squid": 14050006764425997352684639,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x680fbd8ddd5fcccf9667eebc710482bfbfa52438": {
+    "squid": 6822230539375676569616,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x46d2487cdbea04411c49e6c55ace805bfa8f5de5": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xae87e2bb252f7a5b855d64bfcdfed07d7bf07bcc": {
+    "squid": 34255479659574696407289,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xf80aba7bd2b7ee74099ca4bc18d7d611cd641e79": {
+    "squid": 37404468692012467161765,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x6dc9aa79cf710584534496ca58bb143e1856665d": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xb8308617d780c1d843db60148210ba130186232c": {
+    "squid": 41085674249558573740371,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x5b35dbefb8b4918799246664ed3a7fe099619814": {
+    "squid": 7341180124170459025,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x8df2b53f7c5357b722170aca2907448268d998e8": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x3070f20f86fda706ac380f5060d256028a46ec29": {
+    "squid": 1717818990319158740262,
+    "lp": 8156469602803971446,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x95ab2a2f6e701873cea0070dac735589d089f6bc": {
+    "squid": 3655055875700015412934,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 193190397956682480715
+  },
+  "0x2cfb075e8fc0d99837653629b0a3d527f0769a1a": {
+    "squid": 237486573875053704058,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 3127640258009
+  },
+  "0x7c94ac55964ab6117e5ac36482250f1cbee3d5b2": {
+    "squid": 52,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x9f2fa7709b30c75047980a0d70a106728f0ef2db": {
+    "squid": 1,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x85529e3f9478111895d0bcb51c99fb4793682caf": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xb53009e4dc25a494f3bee03ab121517e74b59f75": {
+    "squid": 19151782896012523035201,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x02feb744ca516fd6e41d940ae2d0f7cb6fcb1ac3": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 21391058768769356456
+  },
+  "0xe89181b79df4be6a77901331f473e05c43329770": {
+    "squid": 56000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x7193342f776ebc03d819dce344a4cb8218613f2e": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 51080413433433566641
+  },
+  "0xd184cf2f60da3c54ed1fc371a3e04179c41570c6": {
+    "squid": 7783048127195569979898,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xccbf601eb2f5aa2d5d68b069610da6f1627d485d": {
+    "squid": 94854164310891057520394,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xbd4ab1139f2f6361f927b8552c3b97fe81f0b528": {
+    "squid": 624946957126283562682312,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xd94b2a644b6130b0f14b4fa39b85a5fac450849a": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xf0ee04af67809247ef194443e388e42933279ef3": {
+    "squid": 39490000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 61573432621674548549
+  },
+  "0x141c1c16237439c645033586f0cb85a271f0016f": {
+    "squid": 53046000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x348b3ccac1f8b763b19e91f5fba71b85dc305655": {
+    "squid": 34647359426871829583,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xc164111d12ded6a9dd5d6c532727bd5c10cd89dd": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xd70bd78a9132214bc8a8343dd7ad68cc4b7e994d": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x766c64d809056fbb492fdb410a6b4857c015619a": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xb5b56fcdf374cdab0ceae4bb75844d2a6e59d4d7": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 205791684175293525950
+  },
+  "0x5abc63ebf1950d531408cf8e12ce24c047504847": {
+    "squid": 19617855642391152963037,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x420697d7e966861d57abf4d8b5950ed5741bf98d": {
+    "squid": 7000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x6c46f3f23ed4a070da8d7c1af302d09394efb79f": {
+    "squid": 7673562536244441134976,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 361843652283759869193
+  },
+  "0xf7e9caaaeeb6cc9657e1dd490f044114aecc31b2": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 120892510257867644198
+  },
+  "0x56c85a254dd12ee8d9c04049a4ab62769ce98210": {
+    "squid": 1357391909159467517048,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xee647c33418b1e3c3fa89fb4319f620e7489e56a": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xddb20a475aeead0cea068f98cf83b2465d83071f": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 16458159018123958147
+  },
+  "0x29ff8f9acb27727d8a2a52d16091c12ea56e9e4d": {
+    "squid": 1907512721777066222248,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xb19d6b66b18fae0fca1023138b229e5f970b5180": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 3072949262538413165121,
+    "convex": 0
+  },
+  "0xe9242fc1e861a2a3e12fb3972edcee732f49b37b": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x8238892095d3bac5322894e84f349bcd52f843d5": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 15478579555485648485
+  },
+  "0x2cf70d98851ff4681d3cde774191452ccc00029e": {
+    "squid": 2620801812095474094574,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 92225406683331069779
+  },
+  "0xc51fefb9ef83f2d300448b22db6fac032f96df3f": {
+    "squid": 24692838880037827301,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 5751436612192575799
+  },
+  "0xf4dea4b0534154a96e076803b96a07101e6d6b40": {
+    "squid": 18204184781170522718208,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x549f0c05d71133d90539b93829b6912ba16064b9": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x1525d8fcad680088245055ffb43179367d3effc0": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 15488940429618114,
+    "convex": 0
+  },
+  "0x74577d234812d2ba1dae3e6db23e967583419d95": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x0b0b7736e66cd2840fdb08c9988f46204294a86f": {
+    "squid": 7933419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x93ca2692db73e975d6e8a7a4254c50a034239c9f": {
+    "squid": 20415024771355973255168,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x81f9b40dee106a4c5822aed7641d5c1e2b40f922": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x9f3087a03c503f3e9920378951c090c585bb408e": {
+    "squid": 32133676092544987125000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x0bd3cb973f0b3a6734447fa2ec93b7c479a26de0": {
+    "squid": 32133676092544987125000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xfc4b2a62a06cb2e1c6a743e9ae327bb16977e4c1": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 21049867857296176832
+  },
+  "0x0000000000000000000000000000000000000000": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x307d91591e57461d7476839e3e52bc620454f840": {
+    "squid": 16066838046272493625000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x9a27e685990b1a5c7af688f634c5107763d0b566": {
+    "squid": 500000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x318d0059efe546b5687fa6744af4339391153981": {
+    "squid": 119765035712139320044848,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x45fad3d36fa506e7f955711d6d0dc94a5be8f4b6": {
+    "squid": 973370064279155245056,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x4c47b2520e9f7e3da15df09718d467f783b03858": {
+    "squid": 385674931129476644864,
+    "lp": 0,
+    "gauge": 284749952891578472773,
+    "convex": 0
+  },
+  "0xdcdf8164aaf9345e48e747e95b07d2782d09cb40": {
+    "squid": 10046219250127582789632,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xa40eb69d2adbd34ea73ea1dfd049f825e8216eb0": {
+    "squid": 11272373780631950917632,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x9d6b33774bd65afd1392b0303265e45176c7d33a": {
+    "squid": 642791551882461052928,
+    "lp": 0,
+    "gauge": 4949819588335791865,
+    "convex": 0
+  },
+  "0xac844ada82f3d0241533d827ebf84deb89617792": {
+    "squid": 2492058957235291968315814,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 412643976361037918080
+  },
+  "0x69d08a457b0ff73291e0cb741cb863825561f616": {
+    "squid": 21738603211200680385328,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x6c320a427a22012486722cf8e8b504ac1c0f3b2a": {
+    "squid": 7162534435261708763136,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xdf7fa906da092cc30f868c5730c944f4d5431e17": {
+    "squid": 10120523415977965125632,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x91212de083d29342f670fb69ffa68176369e3b20": {
+    "squid": 18749483653533123379200,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xc968ab45b29dbd8815938a899290890dbf15a1cf": {
+    "squid": 2940771349862259097600,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x40c1b2b32339476ff6004c74ab210559f6c59b59": {
+    "squid": 378787878787878748160,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x9d1d4d631ae6bc24bd09adff6ca82651e928b650": {
+    "squid": 502453004324872614248448,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x561369b3ec94d001031822011b9231e1436bcc78": {
+    "squid": 50495000000000000000000,
+    "lp": 0,
+    "gauge": 2359088723490118783,
+    "convex": 0
+  },
+  "0x3acc2bffa4a5e75fd4b7709a6fa2c3eed94f664c": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 189351943401253537985
+  },
+  "0xe11157670e1d84f7cb55f896c10e4438c7bd2b4f": {
+    "squid": 5000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x798a59cb1ef7110e91640fc6a8056d029ba8a42e": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x6a19fab4847125dcb6eccb822974714a31138274": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x4baa9c08020b229c646709ba48c176fb897d61ef": {
+    "squid": 89499211009330635617,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xc1c39b466a3660e64bfc5c256e6b8e7083957a4a": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x84bc1fc6204b959470bf8a00d871ff8988a3914a": {
+    "squid": 12950229948511421848368,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xe5e5ed1b50ae33e66ca69df17aa6381fde4e9c7e": {
+    "squid": 3462059092257757747898,
+    "lp": 8033649895318092529403,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xfd8bd978f198503a0ba9c5d7f7586e23fc4a4b40": {
+    "squid": 1545515915866350686,
+    "lp": 0,
+    "gauge": 9918562726664641963,
+    "convex": 0
+  },
+  "0xca0073964efe7f9422ceb16901018b1db0cc4785": {
+    "squid": 209855723434706726699,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 9774351739569101352
+  },
+  "0x1acfbd88adc974b0b7a36005947335ecf3965c60": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xdfeeacb43f4bdf4f952ee0e47c99353dd2eda192": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 289853059526982306160
+  },
+  "0x197f818c1313dc58b32d88078ecdfb40ea822614": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x009d13e9bec94bf16791098ce4e5c168d27a9f07": {
+    "squid": 21100257069408740375000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x26d4793a24edeba373505721e507aff2f5c7b58f": {
+    "squid": 1257494807257372118272,
+    "lp": 0,
+    "gauge": 7000405655808918873,
+    "convex": 0
+  },
+  "0x5c945a5743401f3576d59bd2bb00b565f04b8dc0": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xbb0992a43f7b62e047a09c6d51fab1973d04de40": {
+    "squid": 226339735012741051830,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 8080453610952576973
+  },
+  "0x3eb5cf7be27c8f23934cc83350f174441134406c": {
+    "squid": 10519430770860051184,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 936900030596434565
+  },
+  "0xda1d9534bef3344fa5be3b644b767b349e7415c7": {
+    "squid": 39221452428450456215,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 52562580436275
+  },
+  "0xcc0b4fb77e21894120699e6d198ca611b082766d": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x83334ef0c6f6396413c508a7762741e9fd8b20e9": {
+    "squid": 67178377753231101293488,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x2d42d6bb3d18a7be35d76b599aee9d3358b22b3e": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 36981314894581066793
+  },
+  "0xf4477fabb1a3f86c602c37f2e2ba9d05ef9e6843": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xbd63533abbab74e5c4da3d159708a5f1879598d5": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x458094822b2dc3e3e70e9b5f8507389f1f4dbab5": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x839d36595175e1f678110d52d8265a2fea9607ba": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x0fb44352bcfe4c5a53a64dd0fad9a41184a1d609": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x37c5ab57af7100bdc9b668d766e193ccbf6614fd": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x80740cee43f9d8536b13a2b4c5f24705106fa5b2": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xf0d4c12a5768d806021f80a262b4d39d26c58b8d": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x8c6c8c306fbcea9330e9dd6c18b8659bdf2445a4": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x1b34637198b30b95a1fdd60061fa2345f6c7ad9c": {
+    "squid": 86456309257103975907328,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xca423977156bb05b13a2ba3b76bc5419e2fe9680": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xa53ce3082487d281fd13c617925c00b80932a460": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xd93939c5cd996c56349d32c62671e15621bada2b": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x510c0fcbd5fe56af9f5b23f7b7c4ad0bff2b5b00": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xc94c9d696104a6ea9fee3d66afcc1c4652b3d006": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xd839c0d6d3eb0d039f0c45a024aea315fa1ec651": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x129b027960b6d15b2c235fc04ac17caaa1d910e0": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x0735a3936193a2582fe12f0cb157c2b3bed76931": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 51019591081591
+  },
+  "0x0dae2421e6ad3b4c5dea80c8eb94499679bae823": {
+    "squid": 12218537479833922020712,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xd4f9fe0039da59e6ddb21bbb6e84e0c9e83d73ed": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 1882956123383445749
+  },
+  "0xdbdbc0eccc0526059b2b62f6f2ad2113a655dfae": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xb51074da03c55e79e3526cf6bbf31873443efc63": {
+    "squid": 79554840474468183088321,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 582377156079520287793
+  },
+  "0xe7ef5f4803e85f91871bc8f4a609b954f2112ac9": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 1236439678285728948
+  },
+  "0xbd6ff041bf814619bf2c6c36ab9e35a7293a64bd": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x7527631142c193b5ff4bd7da2c2ecf10fc33e8ad": {
+    "squid": 4845415057452099996,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xea7d6a3873cbb644a2fa3a124b00a25c33c661b8": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 1786673613208997407380
+  },
+  "0x374d5221a4367fe746cc6c92d333c6ce15386fcd": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 22224684579906
+  },
+  "0xccdf9178bc4f253e4d530fd08d605e713da77a9f": {
+    "squid": 1645495356895718027091,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 63555925991178960126
+  },
+  "0x04085e57794b5189a7379530b60b895531a2eaaf": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x8b3efbefa6ed222077455d6f0dcda3bf4f3f57a6": {
+    "squid": 36269184347926143400052,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xd3d034c097a40243847fe630ce633d13f760dd0c": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x8973b848775a87a0d5bcf262c555859b87e6f7da": {
+    "squid": 16229865531711866773172,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x6f0f535da243e441352a9040e556f976b935453b": {
+    "squid": 124788235980467635117823,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xfdf73c771d0a3eb0ff67c4c52844428884ea1850": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 6473208915443184806
+  },
+  "0x7644e5d0af5433db699895a2a33a60d497578e2c": {
+    "squid": 255180597899003468709888,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x13cbd624af484c4c695ff0e1d0b7e125d45f2c76": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x32dbef8b3c7dd3e32c874d8a62162206518e5906": {
+    "squid": 0,
+    "lp": 7821436487574407984,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x55e9877c8e66801313607396e7e563391753f800": {
+    "squid": 9647002908589619581,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 3912885949217138315
+  },
+  "0xbea37e65138ef4e439c96cd6b06240ca17750a62": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xb5d26158102181dc4ceee75f260a60debd752e45": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x12bd56b1aa999ecfac7b56fc8e2fb0e5dcadf419": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x41d76a4edbc9f97cedaba41da9ded98ba3bac3ef": {
+    "squid": 16066838046272493625000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x9b93b7bbbdad456fd3662b18c26cd61755ed7ecc": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x505fb4560914ea9c3af22b75ca55c3881472ae45": {
+    "squid": 18066838046272493625000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xf6de48b2e23e20a54a1677b93643e5f6cd0a6060": {
+    "squid": 24100257069408740375000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x3304d37f3fe450c4326f2f9e50498fbfb0431b29": {
+    "squid": 16066838046272493625000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x8575f0668cb0cde8f3e3854cf915d98311bb0057": {
+    "squid": 18066838046272493625000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x0cf2a290ee5d5f16a891079a8a0381e238a27a5e": {
+    "squid": 16066838046272493625000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x71df067d1d2df5291278b7c660fd37d9b6272b4c": {
+    "squid": 19066838046272493625000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x9c768177521c9a832b0f8567265ef02e89d0282e": {
+    "squid": 16066838046272493625000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x7ab066bcd945264e1b1c8d451cb3517c973e676c": {
+    "squid": 24100257069408740375000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x0b98718264ca14d0a17c145ffe1e4f3c38a39372": {
+    "squid": 19066838046272493625000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x0a3af907dd774b93c745f5228ca84eb25a1582fc": {
+    "squid": 16066838046272493625000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xc9645a47e927400b68fa169cf8e9dfdf3e3ffdfa": {
+    "squid": 16066838046272493625000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x52256ef863a713ef349ae6e97a7e8f35785145de": {
+    "squid": 32133676092544987125000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x1dd50763ebf30966922c428177b090a90a634de9": {
+    "squid": 32133676092544987125000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xfc52df87a97e30f6aaf32e952ce3bd05a779dcaf": {
+    "squid": 16066838046272493625000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xe836e3cdbc912577e7bedbfa9a915a3319e3efc4": {
+    "squid": 16066838046272493625000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x52eaf3f04cbac0a4b9878a75ab2523722325d4d4": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xa9d2ea5e931b55b6f11c7838459559eafb9f61e0": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x96ad7a9f1ef57f46efc3553e8a4d4afcd8c77212": {
+    "squid": 26100257069408740375000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x705550d868dd6da69ed2c649eb15c9fb4647c566": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x50f70fc008919a295583fd0598df8b18d06acef8": {
+    "squid": 16066838046272493625000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x8c8a542f9a0deb10a2f310127fa396cab984e6c3": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x70ccbe10f980d80b7ebaab7d2e3a73e87d67b775": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xd2d8e34fa5bafa8e7903babef5fd9101df45ce04": {
+    "squid": 32133676092544987125000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xc6a51d6e1f07e470cc4386f4fe295c3b8482dced": {
+    "squid": 16066838046272493625000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x6abcba6cf08fbfd33cc09c73940e00d8db6c7987": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xbd6f210a624a792e7d30a2f7591dc7abce2f3c48": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x3c5c884d512a4513c9c7440be3c2533175178a09": {
+    "squid": 11033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x82b1bf183b2abacd5ede6694e7cef940e41b1845": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xe39687ed7d3bea7e5ace354211b95fc59ad2b444": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xb272ef11ad76ac73ddcd37955bd4e6d93fd21614": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x109dccc4b8b99790d13c80aa41b17d749aa1882a": {
+    "squid": 16066838046272493500000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x35aa433e4b35de2c907b5c2d5703822e253aef54": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xe524d29daf6d7cdeaaaf07fa1aa7732a45f330b3": {
+    "squid": 26572055166153030589232,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xeee7fb850d28f5cabd5f1edf540646b5bea17ce5": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x58771946fe77fca0234cc7a9f360d77afb41caf8": {
+    "squid": 16066838046272493625000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xee57b250e82902a178beda7a9fba4ff63f8bddc8": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xa9ddd91249dfdd450e81e1c56ab60e1a62651701": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xcba3a6c78408608dad0fa7d203f862ad0c984ae1": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xf4b03870807059042b98c7abe889d5e9ed787371": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xd39c1775e98a73fd0a9c8ecac8c9fedb9bb81e45": {
+    "squid": 50130617126499611287208,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x067214ba2099775d25d82a3b814dc35ce0ceef72": {
+    "squid": 18066838046272493500000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x8cf0a1abc730d65e369726377878cc145e0d4716": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x3c5aac016ef2f178e8699d6208796a2d67557fe2": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xc782b3d3a484aaba2c60b1238921ce0c0f6fd50c": {
+    "squid": 16066838046272493625000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x780aa4face54b454be640c1257a3bda3917111ef": {
+    "squid": 16066838046272493625000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x5f31fd28bf4c9034dc73c63abf95759a1b8a8486": {
+    "squid": 16066838046272493625000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x932e80d589f3259ea299d47e7d6fa048007f3ed6": {
+    "squid": 34133676092544987125000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xd78ccb7cd497ab5e85c1b2da3733f0ecfd9d5103": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x542795bdcbed4dc47b535add84c3a446fb370289": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x87edfd6b1b545d4358f0bf302b1a51660a0dfdf1": {
+    "squid": 11033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xc3e85b30bea6529b3239e3db7978f3c71845f487": {
+    "squid": 16066838046272493625000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x0dc2e2ce90e814c0cfb655438237bd747d2247f3": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x0444516ed1a02863cca7ddeb0937b15dfe33bee0": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x8af0b9a9b751e086122bc340188bd9d99b8c7ec1": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x7bfe766fbf8a25a6cbc47d74cb9ebc7275965621": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xd461cf004eda0ddb0028b831b62bf38b3a6d1e5a": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x4702d39c499236a43654c54783c3f24830e247dc": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xd7cc5b9e380ec67cdcc298db485e17deb7847673": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xa1992346630fa9539bc31438a8981c646c6698f1": {
+    "squid": 11033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x92683a09b64148369b09f96350b6323d37af6ae3": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xf3d476566bcc8e882a3910f1471428522449d89e": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x962228a90eac69238c7d1f216d80037e61ea9255": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x647268daec544a07814e962145ba435db2bb0982": {
+    "squid": 16066838046272493500000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x1d12c9fec45746823861176ce05bdecda06f2115": {
+    "squid": 34777260250165785852376,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x72be5d6be003e489b0d3f20a426969470f624f20": {
+    "squid": 48741969989697017764656,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x2fd798a8fcc64ba1bc62bf363a6a28f63e93d5b8": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x62c8acc91b488f5749d8e43c7711edf76841b206": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xc1f4d15c16a1f3555e0a5f7aefd1e17ad4aaf40b": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x668d4a494192147f396f2e55dff1fed7c8ba595a": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x941ec857134b13c255d6ebeed1623b1904378de9": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x2d07c0a3c8033af7e3eee470b15a3a7831009268": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xae72f47d88c3d719b281c4d302afb9cf2bd60319": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x5a35455c3534fd0b652667e6a94a60e3e9a56546": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xaa078f64d26b63353ad7138e0203e51ff54984ad": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xc0f5b7f7703ba95dc7c09d4ef50a830622234075": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x1dbf3ef9af78408f76f486239a5e105817316969": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x718ef48da682374b99e13b33d9ea75a59d23de51": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x92da7f745fba9bddf369799fa8864993a6e1127b": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xb25c5e8fa1e53eeb9be3421c59f6a66b786ed77a": {
+    "squid": 8033419023136246750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x71c5e91ad3d7359196746ef7cc413e787761be1d": {
+    "squid": 16066838046272493625000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xc507ed8bcfe049d934b6e32d1ae482d0081eaefc": {
+    "squid": 16066838046272493625000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x48c26fadfefbe063b1773af4732565bcb55adc64": {
+    "squid": 24100257069408740375000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xe63e2cdd24695464c015b2f5ef723ce17e96886b": {
+    "squid": 16066838046272493625000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x0988e41c02915fe1befa78c556f946e5f20ffbd3": {
+    "squid": 16066838046272493625000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xeeb061edaad7be1cc8106ea51db59071c55359da": {
+    "squid": 16066838046272493625000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xa521e425f37acc731651565b41ce3e5022274f4f": {
+    "squid": 24100257069408740375000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x6129a2cf9d4f67c433a3ec867a912884936c1cbf": {
+    "squid": 27100257069408740375000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x9a1e04ffd63230a0bdc723be5870aff04af0bb02": {
+    "squid": 21066838046272493625000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xabd3ebf016304ab043fd744490e5c7647040b208": {
+    "squid": 26100257069408740375000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x9c828e8eece7a339bbe90a44bb096b20a4f1be2b": {
+    "squid": 40167095115681233875000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x26602bf417c4e57ba3d2268d7f93a1e16f29e069": {
+    "squid": 29100257069408740375000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xf3b1b6e83be4d55695f1d30ac3d307d9d5ca98ff": {
+    "squid": 24100257069408740375000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xa2917120c698fb5f2a03e3fd3524bda85a3eaef6": {
+    "squid": 36749556859947960521992,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x649f69ccd077da03dfb11f4b1daab4b625f5e9a3": {
+    "squid": 29100257069408740375000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x17e06ce6914e3969f7bd37d8b2a563890ca1c96e": {
+    "squid": 32133676092544987125000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x42726b0570174227679521e48cddf454357c8553": {
+    "squid": 24100257069408740375000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x7f6f138c955e5b1017a12e4567d90c62abb00074": {
+    "squid": 26100257069408740375000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x0cb3e38741ed54fde0b7b7e1c93dcd28a4a6f15c": {
+    "squid": 24100257069408740375000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xa08212117ed24f10237d6e5e891be7e8c9a0f2ad": {
+    "squid": 32133676092544987125000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x329c54289ff5d6b7b7dae13592c6b1eda1543ed4": {
+    "squid": 73874139845837998216456,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x1b0583e43f6e2f93526d7b2dcc887106b030441d": {
+    "squid": 26066838046272493625000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x559524b8d5af5292e4ca30b30ea3dc8261e1dea4": {
+    "squid": 43426828062914180853816,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xda80ea0a45b1af85bb44f9e5b3bd4393a9a4d751": {
+    "squid": 167819633849237903087512,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x84afb4b60844f8759154d6ff7b0580daa2d4e37d": {
+    "squid": 78086613398810290203152,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xaa7a9d80971e58641442774c373c94aafee87d66": {
+    "squid": 59553194375674044501728,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x5ae1283093f33c5f4c1e3a4f0c97d25ec78dc51d": {
+    "squid": 152634961439588689000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x84641137bac4db68de94ec3d2ed89ace0aa88f20": {
+    "squid": 127627450466865070973928,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x5d51b10000d2abe6d619b9de4b5846785b61ce1a": {
+    "squid": 139967866323907455000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x34d6dbd097f6b739c59d7467779549aea60e1f84": {
+    "squid": 101401028277634961500000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x98ab20307fdaba1ce8b16d69d22461c6dbe85459": {
+    "squid": 120501285347043701750000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xf433771be52fe3b915b5c3840ffe9a55425766e3": {
+    "squid": 196450865131802944552040,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x47bdcf47753fbd125ac7a6305f550eb0362617f8": {
+    "squid": 244179537928830301342536,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x61abf360fee2b472b8e6dcd94215120259a95dd7": {
+    "squid": 5408301158301158211584,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xc16637fdf1dd91ddc98b70ab732aca9895d49a5c": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 35946907550515
+  },
+  "0x1b2dab8062e1d7ea6d6bff01ae297fede19e3125": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xbdec7287c08c0c153f9843c4796d59e3bf7178e4": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x9d30f837adc8f6dab74b0c75590c3fa998c9700f": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 806289000664788927
+  },
+  "0xae77183882f8eeeb5d1180b00a74579e73a7dbba": {
+    "squid": 7080556885715288,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x89ee26fcdff6b109f81abc6876600ec427f7907f": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xa7bf8f67045ef716ee87ded1faadff10f226c02d": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 2402682370610241879
+  },
+  "0xdbc9e41d5e083884f2cb172bb3a17ab09a528101": {
+    "squid": 2058298375727366099091,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 1535531296327755337
+  },
+  "0x9c804764b0c0190ca2ef60f680c6b38cf782a1a1": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x8a1a66ccd6b5652a19e927308529c3a5bc7a9605": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 1148717990585297104
+  },
+  "0x11443ad12aef3663a8cd767e6f9508fc799c4b18": {
+    "squid": 2000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x36fdb65d2d484b036ade6a2a418b05da0c848f1b": {
+    "squid": 5000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x2c5c55e6918824bf7b46282da8ea2e0195311a27": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xed217008de92d861b6990381abc9c6c27822b34a": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x2e3baa9ec2a73e6813cbcea552f8a8db39e70bde": {
+    "squid": 10899312733070927692,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x66143d695baff44a3c8549bbdb16098d55674f9d": {
+    "squid": 5247670807453416554496,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xec92d566ce3a662f03af304c3dd5a7961fa5dc59": {
+    "squid": 1138392857142857170944,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x6f278ce76ba5ed31fd9be646d074863e126836e9": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x76d2ddce6b781e66c4b184c82fbf4f94346cfb0d": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x9948ffd4b0e40a096f8979cdaeea7d852f6ea177": {
+    "squid": 11504618799222906332,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 2597637745318
+  },
+  "0x02e0c302380aa679189d9caa349a0da5a6a19108": {
+    "squid": 13991460609721607943,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xc6ef452b0de9e95ccb153c2a5a7a90154aab3419": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x0a8c33a7359eff8d306c8079b4043bbc1d887ae8": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 328918375494542141
+  },
+  "0x62661b101ca48734668669a9f1cb83c4889049f3": {
+    "squid": 51755924792155500,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x0d41a350d7549de7ce3ea59b5bd678b7d8a268f0": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x3c28c42b24b7909c8292920929f083f60c4997a6": {
+    "squid": 105326044021125778941,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x7f34c621e8e724f31d6121b20b726606ab19ec27": {
+    "squid": 5044019321806909,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xf807ee5f15b17e5fd8c154013abe200b681564c3": {
+    "squid": 5044019334444147,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x155ddac174dc33a1c7054b90ae8c31228776d147": {
+    "squid": 7216407533876696030651,
+    "lp": 0,
+    "gauge": 13287984709589255862,
+    "convex": 0
+  },
+  "0x0045054678cc276809792728d2689b2748dc6f2d": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x465ebdcca602a15559c861edc48c836ca76b2e0b": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x000585e5a5e33592760f5c1ebce9318e9ec0b112": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xe8a4900bf1f3e498d6069f96158bcc132dbb7b44": {
+    "squid": 381667057239059595166,
+    "lp": 0,
+    "gauge": 31502850764770103069,
+    "convex": 0
+  },
+  "0x3c637470c140ad6b39ce7bad3ddb5a045fa8d574": {
+    "squid": 11455626185020109684736,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x687c121cc556038a1d44fd6ffcad6eb32245e54b": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x0fe38dcc905ec14f6099a83ac5c93bf2601300cf": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xa8577bd52403e03c61a758e535f942ffc64cd070": {
+    "squid": 90000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x5e926acf797e72d08e66e1f6b2cfc49200453c6d": {
+    "squid": 5864882695872277446656,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xa44f500bdd82e2e783ef292e2bce6ab5124a6394": {
+    "squid": 7593070737529840074752,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x52226fc7a4b931b962427da1be5734ed3a40cc1f": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x76a1f298a8d22603a0e5c40398a0155e6799d29a": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x0017dfe08bcc0dc9a323ca5d4831e371534e9320": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xe790e84efe105a610ec61d9d31edc07c2569f529": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x14d9dfcb8214d31069eaba6be8d328f56760f384": {
+    "squid": 321574282001037884812,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x402fc615b80a4048c12b3f6369fa74a36e71c285": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x351da630c4918ad2dcdd8e6408641e14e22aa6db": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x66c348c2d6f0a5c2d1b34dc87ab61bfd62feb9cd": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x02d151627e74a741c48733ea04c036e7b01d9e63": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x1b3bbab4f9975094b326c6b64644ff2723d163c4": {
+    "squid": 15466518551686628704256,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x415d9f9d71f4090a5feb49a5d246ff6094af843b": {
+    "squid": 34750465848040010,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x4f37a9d177470499a2dd084621020b023fcffc1f": {
+    "squid": 1,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xf4bbd5cd8c7551796a41e25928f0617a7d1f1cc2": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x52b13b2f6804d659aa7a55e8d06410dfa9b805b8": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x9785abe7b4565986ea475a868819418f722b071b": {
+    "squid": 1002781765972720615424,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x44cddd49c6098b77108336fc5f10a4cc9037d764": {
+    "squid": 521356783919598010368,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x5e501008efcd5cf894b240ca40a082cd6cbfb9c5": {
+    "squid": 2282663316582914588672,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x37d0371d17e5e587b236504515a4baabc08da619": {
+    "squid": 3282663316582914588672,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x0c2dfb74090a1aca1b3df3096c32f660913ec444": {
+    "squid": 108506393628035357322,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xc2d201037bdf8f7fe905f1073106bf4385b65a6f": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xf623bef6f5a538e057a8ec38c7b26b4524360f61": {
+    "squid": 7983279647646960245,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x8b36504f2c52f59a57ee6c84d6f1b82e7698ecf0": {
+    "squid": 2482028857543782233179,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x96de457f38673381b7280caa1d004f73535b7a43": {
+    "squid": 25000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xe3aa9e5252211716052c9677f2258e35ccb85ed6": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x427caf62d66fcec08fa55f0991dbca66a8bfa7e7": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xf7bd34dd44b92fb2f9c3d2e31aaad06570a853a6": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x1b2a75d4ef318edd3f3ac1d1613916392419273c": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x4236cad967f018f4d87fd9c9aa0fb56e4f6fe9c2": {
+    "squid": 2750000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x9c2b07dd951edae10fbf58bb98a1448cde417f58": {
+    "squid": 2750000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xa20cb8f72bd1edbcfe2e790787f14ee69f80b182": {
+    "squid": 2750000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xa716c2ef62b60cf82b8119947030ea7e26a39908": {
+    "squid": 2750000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x1aaf5e41c2c73617bc120097547a3410caf6718a": {
+    "squid": 2750000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xddff05414d45b1500a85f74d00c2a7c8916715f9": {
+    "squid": 3500000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x3839acf1ee7699d1f46b1be840d8ad8317fdf757": {
+    "squid": 4250000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x27629b5d175e899a19ed6b3a96016377d5ee4768": {
+    "squid": 5750000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xa674f2c33f504345f50ca6c850f9fd8338612166": {
+    "squid": 5750000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x4fde6e0af241816a38346ee014482f88311d0451": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xeb40a065854bd90126a4e697aea0976ba51b2ee7": {
+    "squid": 6500000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xaba1320725b9623d9a3c0bd2ac8e23a78b99a37d": {
+    "squid": 9500000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x78b783e4db4101cd298622963e7c9e72775a12f1": {
+    "squid": 14000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xc0018a967500a646d19d232545a1d2ef0f3ffc35": {
+    "squid": 5000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x6767ad8d45dd579b272f5a4a4d046909eb921114": {
+    "squid": 2000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x8ed4389a31fe79d5eb76ef63a8477bfb0a39788b": {
+    "squid": 2000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x901feac939f5161e4f5ab5b47f9dcf22fa3cdeae": {
+    "squid": 2000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x7904ad7c992cdab500daa0f3366301b1f5365b62": {
+    "squid": 5000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x3c57ece6c13aa7946060690abe03a4f7b90c4868": {
+    "squid": 2000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xd87893266d99d19d86148f49a836138928c3ca3e": {
+    "squid": 2000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xde56e01f34131f27090dc63606dd007ec41e26d9": {
+    "squid": 2000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xf49caa0bd91ebc36531f5099e244abfcb2c8cb42": {
+    "squid": 2000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xa9d2bcf3acb743340cdb1d858e529a23cef37838": {
+    "squid": 2000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x154d73802a6b3324c017481ac818050afe4a0b0a": {
+    "squid": 2000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x8bc220cb17579edae44e5ed4473ae24f07a30efb": {
+    "squid": 2000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x073aba73177668ba1c6661a4ccddbf77dfc8809a": {
+    "squid": 2000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x3baf04a1daccb03f4806694cf1a266e1c4df1310": {
+    "squid": 2000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xa7499aa6464c078eeb940da2fc95c6acd010c3cc": {
+    "squid": 2000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xa9c386af3389fce72dafa081c2c45d7b0f31c0fc": {
+    "squid": 2000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x75e70db620d5491f69526e22355236f65b46834e": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xb8f7725f64a09a453b5736462343187ea84bbd44": {
+    "squid": 5000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x58c0c064a89138bf3216c20f4e4827ec0fe78e87": {
+    "squid": 2000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x23fcf8d02b1b515ca40ec908463626c1759c2756": {
+    "squid": 2000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x48dbc3fda0f1421f3b6239a9a3f7a24dfdfd38f1": {
+    "squid": 2000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x49f9d409c580660b0f8e51835c4c6d2f4433e93c": {
+    "squid": 4679170209179080630631,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x3b27944505847cb14f3f2983638d082c8d9526d0": {
+    "squid": 2000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x9241eea9d76da8791ca5b5e1533a7790cf837064": {
+    "squid": 2000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x8d138c01765483cb79d787ce5933f609cbfdabcf": {
+    "squid": 2000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x241e25c9d15b5e7fb007b5e028c4ce8694893870": {
+    "squid": 2000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xa7e6f51af4fbd7d1f4d95764bbc965cec4ad5b91": {
+    "squid": 2000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x52ef1f3c4a1068d0079093cd2dcae9ebe9edcb8f": {
+    "squid": 2000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x1dcf6b41e6237eaccebd1b1f7cdf6ac089d29029": {
+    "squid": 2000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x6f5a8a35fb10eecef9128f407a0fe67b898556cf": {
+    "squid": 2000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xc52ad39f7ee32b0aa3bbd54468f5984f0bda48cb": {
+    "squid": 2000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xdc7c7b60ae8b76e720f7a5e12ceb4cc6578eeafc": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xdaa070d909e010211606144ede5b2ca6864c2c1c": {
+    "squid": 3750000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x3c8319dd83fa18ec1a0df2acf65277a731514d67": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x2a7051d7cbbef7b6889f8e14774020b1653b94c1": {
+    "squid": 8250000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xba386d72ee66b86c51ec92e75b6a32e2563bfd59": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xbcd3e2e841cc6140ede73c9ad8ad86ec7e423f52": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xeba9fdf974f0d194e072a5a2c0721376cdc046bb": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x25c9a0ed2d36500781f87df6270b6f08950fd2f5": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x92f092d7c8540f97b61c28aa9b8c14c3e42922ce": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x30e10faae4912e034adc425190a050c11ccfa9b6": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x15762db764826c219f1385c028e7e043a27e1891": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x2ee463df905fc7a35ca0bb464d8a711931e623c5": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xbaa32387bd55553ec806622d524b12bbb8242a19": {
+    "squid": 6750000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x74fab2e38f657d7aeaa4545f86d659baa39fffc5": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x99fba19112f221d0b44c9c22241f5e6b2db715f6": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x201c59f0e15ccc48cab012525f16be7a91a91b53": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xd859cbad6f4fbeac118c5f4cbf47ed21215f0c9f": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x21b52546d6b2451e461d81b7a3c89ddf4d65cd2e": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xdfad0c01a28d9d95486bb3f0821e4f5644704fa7": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x30cc4b46b714ea05be154e7d5e8c4fc3bdb9e66a": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x50d52d86458f73005858a9345cf4ce89e5a6f410": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x9b7e5d40fcb79bbf4171521f5a8e2e15808f82d7": {
+    "squid": 8102040816326529777664,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x53c40473dcdfd927c4201ccfe24e314a7d7c3584": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x6f8348b951943fa0a2a6065067eb2bd6180c244d": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x9b87e1fd164e70e6fa8c7fbee5943c2532f7834b": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x1afa31717e3729e86535140c45c638e2ff7c2af0": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xf3200849ac675cf41e47e70b744ad38f64ee06de": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x84865bb349998d6b813db7cc0f722fd0a94e6e27": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x7e30b26b53e5a6effb62a88632a46c123538c432": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xa2451e7404b3e1811dd06649dfd8f34d1c579be0": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x8625afdbf3744d433d850c681ba881d028253c8a": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xd43a25b442e2c343dad472a871c5262cca275eb4": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x4bb7fba588b4254536de4316e8fb346bbe275ecb": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x24561da338b34f2c5ef49c4f0f0a98c66bb60460": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xf2ff263e80ce7ac4e86c1e954540eed7a4681b95": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x6002bb1b22680d3d7ef130fa6b77a9c37edb48e7": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xdec6d1c36e6a2c20642db914b3462ea65629668e": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xda51a9b56d69a194083025eac9c4c24452848e01": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xd6f631c796a56a5d448dd88a01f15058c4a0be52": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x5f0db49acb60df63fbaf173ef177aef220b32bcb": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xa57c6196f4b15e05436acc32f598c018a62c05d1": {
+    "squid": 4700680272108843433984,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x87616fa850c87a78f307878f32d808dad8f4d401": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x2d6e05c6c5bda25a49fec4ba53666b34f1915196": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xdb9b936373f859ce8c580bbc35b0eab89ca9fd70": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x5ac0f5f378d478d30a5bfdc6421171b5673c17b8": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xb722eea8067578a87460b94b1db715e50aa8c9de": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x949e2988b857af2a3c9429e763d13202b7b25c88": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x75a4a38a05e985463eb9ee65e45c4ce5ae0afb62": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x81f30a631a2e6ac8d2a09b81bedef1fec45d65a9": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x0d86a2fd448ad216692238a28d2753def5b1d853": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x7f43909414ff1b9e8fcc531e87212378e4a3f9e4": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xab018255dc5df8e36602bbbf201587f4b9cbc4f5": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x7078d9efadefcf699c46d6d7bad84e99eb29fd6d": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xec75451c7f1ff31833cf74d298c5b9749e58f367": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x01ab07010c2f4bf5971537669cc19d5d8cf320a0": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x2b3de33a62a656c76ed366fe55c49cfe142f5427": {
+    "squid": 8102040816326529777664,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xe6f79f8b46b30f293cfbde50ef787d2fe0610782": {
+    "squid": 3000000000000000000000,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x9afbd3a93f3046b217c6df9db65cb14aa8e5da46": {
+    "squid": 4319261213720316739584,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xdfea3e84e51117dfede2561fb39617e23f2acce9": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x3a652f60622d22cde49de3d9b5e9d0dcd4d6c32a": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xef4a52d5483049b37cb883539d1b380eed80a598": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xe317706a4b3078d9bf75a68f3c1db909b9d2322d": {
+    "squid": 95,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xaaa29803885d86e8a07773c3c049fd4ef7a8fa9c": {
+    "squid": 500000000000000318,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x14a0947b8fbebe53ad5ef8c5f80f14adbc559d53": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x989aeb4d175e16225e39e87d0d97a3360524ad80": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 4606916478779012442980,
+    "convex": 0
+  },
+  "0xb7bb43e68b41ed173c29c8869ac90a18c551c598": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 2849146712931020105
+  },
+  "0xd3327cb05a8e0095a543d582b5b3ce3e19270389": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xa82c9ed42e7cea03cfad4b03205e46d1a4a30998": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 30828785536703415679
+  },
+  "0xead7d35099539ce2abe64f7591ea522e23c13c05": {
+    "squid": 24461107911921177050,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 1734386669813394473
+  },
+  "0xa49efc7737189207e45ed0446476c698a4693236": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xe3786a8ce1be27560dfe6f093625ac692d92732d": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xe6924b4bbd9c9e76a5e2957752a9880fd3248857": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xc3ad78caa7984ecabb06c6bd4934c3d8e9efd593": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0xb2515a7221b2654f9faae0e4ed1d0e49aa7b85dd": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x5180db0237291a6449dda9ed33ad90a38787621c": {
+    "squid": 0,
+    "lp": 1672182674779848898,
+    "gauge": 0,
+    "convex": 0
+  },
+  "0x5950e29eea828c7bcfb8ac68cb75929b8e1b7aa8": {
+    "squid": 0,
+    "lp": 0,
+    "gauge": 0,
+    "convex": 500
+  }
+}
